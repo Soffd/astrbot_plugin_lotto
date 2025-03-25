@@ -1,0 +1,5 @@
+name: lotto # 这是你的插件的唯一识别名。
+desc: 大乐透玩法，需刮刮乐插件https://github.com/waterfeet/astrbot_plugin_guaguale。 # 插件简短描述
+version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: Yuki Soffd # 作者
+repo: https://www.yusolab.com # 插件的仓库地址
